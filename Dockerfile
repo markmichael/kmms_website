@@ -1,5 +1,5 @@
 # Use a base image that includes Quarto
-FROM ghcr.io/quarto-dev/quarto-cli:latest
+FROM analythium/r2u-quarto:20.04
 
 # Set the working directory in the container
 WORKDIR /site
