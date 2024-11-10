@@ -1,0 +1,74 @@
+---
+title: "What is Revenue Cycle?"
+---
+
+## How do practices get paid?
+
+Not only to providers need to provide care for their patients, but they also need to make sure they can accept their insurance, document the necessary details about the patient and services rendered, and finally submit a claim and collect payment. This complicated dance with insurance companies starts well before a patient visits your office and is riddled with obstacles and challenges.
+
+## Frontend vs. Backend Revenue Cycle
+
+The revenue cycle is divided into two parts:
+- **Frontend Revenue Cycle**: Tasks performed before or during the patient’s visit.
+- **Backend Revenue Cycle**: Tasks that ensure accurate billing, payment collection, and follow-up after the patient’s visit.
+
+### Frontend Revenue Cycle
+
+The frontend revenue cycle covers the tasks done at the beginning of the patient encounter and prior to any billing. Proper management of these tasks reduces errors and delays in reimbursement.
+
+#### Key Frontend Activities
+- **Scheduling and Registration**: Ensuring that patient demographics, insurance information, and contact details are accurate.
+- **Insurance Verification and Eligibility**: Confirming that the patient’s insurance will cover the upcoming services.
+- **Prior Authorization**: Obtaining pre-approval for certain procedures or services from the patient’s insurer.
+- **Patient Financial Responsibility**: Estimating the patient’s out-of-pocket costs and collecting payments, such as copays, before services.
+
+```{mermaid}
+flowchart TD
+    A[Patient Scheduling] --> B[Insurance Verification]
+    B --> C[Prior Authorization]
+    C --> D[Patient Check-in & Copay Collection]
+```
+
+These steps help prevent claim denials and unexpected costs for the patient.
+
+### Backend Revenue Cycle
+
+The backend revenue cycle includes the steps that occur after patient services are provided, focusing on claim submission, reimbursement, and handling any issues that may arise.
+
+#### Key Backend Activities
+- **Coding**: Accurately assigning CPT, ICD-10, and HCPCS codes based on the services provided.
+- **Claims Submission**: Sending coded claims to insurance payers for processing.
+- **Payment Posting**: Recording payments received from insurers and patients in the system.
+- **Denial Management**: Addressing denied claims by reviewing payer responses and submitting corrections or appeals.
+- **Accounts Receivable (AR) Management**: Monitoring outstanding claims and patient balances to ensure timely payment.
+
+
+```{mermaid}
+flowchart TD
+    E[Medical Coding] --> F[Claims Submission]
+    F --> G[Payment Posting]
+    G --> H{Denial Management}
+    H --> I[Resubmission/Appeals]
+    G --> J[Accounts Receivable Management]
+    I --> J
+```
+
+Backend processes are essential for ensuring that claims are submitted correctly and that any issues are promptly addressed to minimize lost revenue.
+
+## Getting It Right: Essential Elements for Optimal Payment
+
+For a practice to be paid optimally, it needs to master several key components of the revenue cycle. Here are the elements that require precision and attention:
+
+1. **Accurate Patient Demographics**: Errors in patient information can lead to claim denials or delays.
+2. **Insurance Verification and Eligibility**: Ensuring coverage details and eligibility prevents unexpected denials.
+3. **Preauthorization for Services**: Certain services need prior authorization; neglecting this step can result in denial.
+4. **Effective Coding**: Coding errors are a top reason for denied or underpaid claims. Proper training and auditing help avoid these issues.
+5. **Timely Claims Submission**: Delays in submitting claims can result in missed deadlines and rejected claims.
+6. **Payment Tracking and Posting**: Ensure payments are recorded accurately and match expected reimbursements.
+7. **Denial Resolution**: Address and correct denials promptly to recover revenue and reduce AR days.
+8. **Patient Collections**: Having a strategy for patient balances, including clear communication and payment plans.
+
+By addressing each of these areas, practices can improve their chances of receiving full payment promptly.
+
+<hr>
+

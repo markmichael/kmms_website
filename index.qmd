@@ -1,0 +1,80 @@
+---
+title: "KMMS Consulting"
+subtitle: "<i>Revenue Cycle Management for Solo and Group Practices</i>"
+---
+
+## Navigate your revenue cycle with confidence
+
+ _How much does will this treatment cost my patient?_  
+ _Will insurance cover this for my patients?_  
+ _Why did this claim get denied?_  
+ _I do this all the time -- is there a way I can get reimbursed for it?_ 
+
+The financial world within healthcare is murky and confusing for patients and providers alike. Guidelines around billing code requirements are constantly changing and insurance companies have their own rules about what and how much they will reimburse. Practices are frequently left cautiously undercoding and receiving surprise denials.  
+
+That's where we come in.  
+
+We support practices with all their revenue cycle needs. Common needs such as credentialing a newly hired provider with the payers you work with to complex needs like understanding how a recent CMS rule change impacts your practice are all within our scope.
+
+## Discovery with KMMS
+
+Most of our clients see their bottom line and know that there is opportunity to improve but don't know where to start. We do a thorough discovery with each client prior to initiating a consulting relationship to create clarity around where opportunities exist and an estimated ROI. Typically this involves reviewing a sample of submitted claims and identifying examples of suboptimal coding and preventable denials.  
+
+#### Already know what you need? We can execute on various revenue cycle tasks.
+
+### Common services we offer
+
+- Code Compliance
+- Denials Management
+- AR Managment
+- Coding
+- Credentialing
+- Contracting
+- Third Payor Negotiations
+- Auditing
+- New Service Exploration
+
+## Working with KMMS
+
+#### Small changes with high yields
+::: {layout="[30,70]"}
+
+![](kmms_assets/royalty_free_images/2_people_in_office.jpg)
+
+We work with your existing staff, EMR, and other resources to improve efficiency while reducing friction. Most clients find that they can increase their revenue while doing similar amount of work.  <br>  
+Our goal is to implement solutions that you can sustain without outside help, keeping more of your new revenue in your practice.
+
+:::
+
+#### Clean claims make providers and patients happy
+::: {layout="[30,70]"}
+
+![](kmms_assets/royalty_free_images/doctor.jpg)
+
+Avoid claims bouncing back and forth with insurance providers. Get it right the first time and get paid promptly for your care.  
+<br>
+Similarly, patients don't want to receive a surprise bill 6 months after their appointment. Understand expected patient responsibility and collect an accurate payment at the time of service.
+:::
+
+
+## Get started today
+
+<form
+  action="https://formspree.io/f/xanyjygy"
+    method="POST"
+>
+<label class="form-label mt-4">
+Your email:  
+</label>
+<input class ="form-control" type="email" name="email">
+<small class="form-text text-muted">We'll never share your email with anyone else.</small>
+
+<label class="from-label mt-4">
+Your message:  
+</label>
+<textarea class="form-control" name="message" rows="5"></textarea>
+
+<button class ="btn btn-primary mt-3" type="submit"> Send </button>
+
+</form>
+

@@ -1,0 +1,28 @@
+project:
+  type: website
+  preview:
+    port: 4200
+
+website:
+  title: "<img src='./kmms_assets/kmms_logo_red.png' alt='KMMS Logo' style='height: 35px;'>"
+  favicon: kmms_assets/favicon_io/favicon.ico
+  navbar:
+    style: "navbar-light bg-warning"
+    right:
+      - href: index.qmd
+        text: KMMS Consulting
+      - rev_cycle.qmd
+      - about.qmd
+  body-footer:
+    '<div style="text-align: center;"><img src = "./kmms_assets/company_logo.png" width = "220"><br><small>hello@kmmsconsulting.com</small></div>'
+    
+
+format:
+  html:
+    theme:
+      - flatly
+    css: styles.css
+    toc: true
+
+
+

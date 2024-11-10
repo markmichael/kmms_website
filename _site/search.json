@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Us",
+    "section": "",
+    "text": "Kimberly Scislowicz, CPC\n\n\n\n\n\n\n\n\n\nkimberly@kmmsconsulting.com\n\n\n\n\nKimberly has a been working in revenue cycle managment for over 10 years from practices with niche specialities such as cardiology and cosmetics to broader sectors of the industry such as telemedicine and remote patient monitoring. She brings a wealth of knowledge from her years of experience interacting with payors and tracking the continually changing regulatory landscape. \nIn her free time, Kimberly enjoys spoiling her two cats, watching soccer, and experiencing the vibrance New York City.\n\n\n\n\n\nMark Michael, MD CMPE\n\n\n\n\n\n\n\nMark has a background in medicine, research, and data science. After medical school he joined a series of health technology startups serving needs ranging from patient education to aged care to remote patient monitoring. He has a passion for evidence-informed care and building statistical models to explain confidence, uncertainty, and projections. \nIn his free time, Mark rides his bicycle on the scenic trails of the Pacific Northwest. He plays board games and likes to try new recipes in the kitchen.\n\n\n\n\n\nmark@kmmsconsulting.com\n\n\n\n\n\n\n\n\n\n\nhello@kmmsconsulting.com"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "KMMS Consulting",
+    "section": "",
+    "text": "How much does will this treatment cost my patient?\nWill insurance cover this for my patients?\nWhy did this claim get denied?\nI do this all the time – is there a way I can get reimbursed for it?\nThe financial world within healthcare is murky and confusing for patients and providers alike. Guidelines around billing code requirements are constantly changing and insurance companies have their own rules about what and how much they will reimburse. Practices are frequently left cautiously undercoding and receiving surprise denials.\nThat’s where we come in.\nWe support practices with all their revenue cycle needs. Common needs such as credentialing a newly hired provider with the payers you work with to complex needs like understanding how a recent CMS rule change impacts your practice are all within our scope."
+  },
+  {
+    "objectID": "rev_cycle.html",
+    "href": "rev_cycle.html",
+    "title": "What is Revenue Cycle?",
+    "section": "",
+    "text": "Not only to providers need to provide care for their patients, but they also need to make sure they can accept their insurance, document the necessary details about the patient and services rendered, and finally submit a claim and collect payment. This complicated dance with insurance companies starts well before a patient visits your office and is riddled with obstacles and challenges."
+  },
+  {
+    "objectID": "index.html#navigate-your-revenue-cycle-with-confidence",
+    "href": "index.html#navigate-your-revenue-cycle-with-confidence",
+    "title": "KMMS Consulting",
+    "section": "",
+    "text": "How much does will this treatment cost my patient?\nWill insurance cover this for my patients?\nWhy did this claim get denied?\nI do this all the time – is there a way I can get reimbursed for it?\nThe financial world within healthcare is murky and confusing for patients and providers alike. Guidelines around billing code requirements are constantly changing and insurance companies have their own rules about what and how much they will reimburse. Practices are frequently left cautiously undercoding and receiving surprise denials.\nThat’s where we come in.\nWe support practices with all their revenue cycle needs. Common needs such as credentialing a newly hired provider with the payers you work with to complex needs like understanding how a recent CMS rule change impacts your practice are all within our scope."
+  },
+  {
+    "objectID": "index.html#discovery-with-kmms",
+    "href": "index.html#discovery-with-kmms",
+    "title": "KMMS Consulting",
+    "section": "Discovery with KMMS",
+    "text": "Discovery with KMMS\nMost of our clients see their bottom line and know that there is opportunity to improve but don’t know where to start. We do a thorough discovery with each client prior to initiating a consulting relationship to create clarity around where opportunities exist and an estimated ROI. Typically this involves reviewing a sample of submitted claims and identifying examples of suboptimal coding and preventable denials.\n\nAlready know what you need? We can execute on various revenue cycle tasks.\n\n\nCommon services we offer\n\nCode Compliance\nDenials Management\nAR Managment\nCoding\nCredentialing\nContracting\nThird Payor Negotiations\nAuditing\nNew Service Exploration"
+  },
+  {
+    "objectID": "index.html#working-with-kmms",
+    "href": "index.html#working-with-kmms",
+    "title": "KMMS Consulting",
+    "section": "Working with KMMS",
+    "text": "Working with KMMS\n\nSmall changes with high yields\n\n\n\n\n\n\n\n\n\nWe work with your existing staff, EMR, and other resources to improve efficiency while reducing friction. Most clients find that they can increase their revenue while doing similar amount of work. \nOur goal is to implement solutions that you can sustain without outside help, keeping more of your new revenue in your practice.\n\n\n\n\n\nClean claims make providers and patients happy\n\n\n\n\n\n\n\n\n\nAvoid claims bouncing back and forth with insurance providers. Get it right the first time and get paid promptly for your care.\n Similarly, patients don’t want to receive a surprise bill 6 months after their appointment. Understand expected patient responsibility and collect an accurate payment at the time of service."
+  },
+  {
+    "objectID": "index.html#get-started-today",
+    "href": "index.html#get-started-today",
+    "title": "KMMS Consulting",
+    "section": "Get started today",
+    "text": "Get started today\n\n Your email:\n  We’ll never share your email with anyone else.\n Your message:\n\n\n\nSend"
+  },
+  {
+    "objectID": "rev_cycle.html#frontend-vs.-backend-revenue-cycle",
+    "href": "rev_cycle.html#frontend-vs.-backend-revenue-cycle",
+    "title": "What is Revenue Cycle?",
+    "section": "Frontend vs. Backend Revenue Cycle",
+    "text": "Frontend vs. Backend Revenue Cycle\nThe revenue cycle is divided into two parts: - Frontend Revenue Cycle: Tasks performed before or during the patient’s visit. - Backend Revenue Cycle: Tasks that ensure accurate billing, payment collection, and follow-up after the patient’s visit.\n\nFrontend Revenue Cycle\nThe frontend revenue cycle covers the tasks done at the beginning of the patient encounter and prior to any billing. Proper management of these tasks reduces errors and delays in reimbursement.\n\nKey Frontend Activities\n\nScheduling and Registration: Ensuring that patient demographics, insurance information, and contact details are accurate.\nInsurance Verification and Eligibility: Confirming that the patient’s insurance will cover the upcoming services.\nPrior Authorization: Obtaining pre-approval for certain procedures or services from the patient’s insurer.\nPatient Financial Responsibility: Estimating the patient’s out-of-pocket costs and collecting payments, such as copays, before services.\n\n\n\n\n\n\nflowchart TD\n    A[Patient Scheduling] --&gt; B[Insurance Verification]\n    B --&gt; C[Prior Authorization]\n    C --&gt; D[Patient Check-in & Copay Collection]\n\n\n\n\n\n\nThese steps help prevent claim denials and unexpected costs for the patient.\n\n\n\nBackend Revenue Cycle\nThe backend revenue cycle includes the steps that occur after patient services are provided, focusing on claim submission, reimbursement, and handling any issues that may arise.\n\nKey Backend Activities\n\nCoding: Accurately assigning CPT, ICD-10, and HCPCS codes based on the services provided.\nClaims Submission: Sending coded claims to insurance payers for processing.\nPayment Posting: Recording payments received from insurers and patients in the system.\nDenial Management: Addressing denied claims by reviewing payer responses and submitting corrections or appeals.\nAccounts Receivable (AR) Management: Monitoring outstanding claims and patient balances to ensure timely payment.\n\n\n\n\n\n\nflowchart TD\n    E[Medical Coding] --&gt; F[Claims Submission]\n    F --&gt; G[Payment Posting]\n    G --&gt; H{Denial Management}\n    H --&gt; I[Resubmission/Appeals]\n    G --&gt; J[Accounts Receivable Management]\n    I --&gt; J\n\n\n\n\n\n\nBackend processes are essential for ensuring that claims are submitted correctly and that any issues are promptly addressed to minimize lost revenue."
+  },
+  {
+    "objectID": "rev_cycle.html#getting-it-right-essential-elements-for-optimal-payment",
+    "href": "rev_cycle.html#getting-it-right-essential-elements-for-optimal-payment",
+    "title": "What is Revenue Cycle?",
+    "section": "Getting It Right: Essential Elements for Optimal Payment",
+    "text": "Getting It Right: Essential Elements for Optimal Payment\nFor a practice to be paid optimally, it needs to master several key components of the revenue cycle. Here are the elements that require precision and attention:\n\nAccurate Patient Demographics: Errors in patient information can lead to claim denials or delays.\nInsurance Verification and Eligibility: Ensuring coverage details and eligibility prevents unexpected denials.\nPreauthorization for Services: Certain services need prior authorization; neglecting this step can result in denial.\nEffective Coding: Coding errors are a top reason for denied or underpaid claims. Proper training and auditing help avoid these issues.\nTimely Claims Submission: Delays in submitting claims can result in missed deadlines and rejected claims.\nPayment Tracking and Posting: Ensure payments are recorded accurately and match expected reimbursements.\nDenial Resolution: Address and correct denials promptly to recover revenue and reduce AR days.\nPatient Collections: Having a strategy for patient balances, including clear communication and payment plans.\n\nBy addressing each of these areas, practices can improve their chances of receiving full payment promptly."
+  },
+  {
+    "objectID": "rev_cycle.html#how-do-practices-get-paid",
+    "href": "rev_cycle.html#how-do-practices-get-paid",
+    "title": "What is Revenue Cycle?",
+    "section": "",
+    "text": "Not only to providers need to provide care for their patients, but they also need to make sure they can accept their insurance, document the necessary details about the patient and services rendered, and finally submit a claim and collect payment. This complicated dance with insurance companies starts well before a patient visits your office and is riddled with obstacles and challenges."
+  }
+]

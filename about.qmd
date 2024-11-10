@@ -1,0 +1,33 @@
+---
+title: "About Us"
+---
+
+#### Kimberly Scislowicz, CPC
+
+::: {layout="[30,70]"}
+
+![kimberly@kmmsconsulting.com](./kmms_assets/kim_headshot.jpg)
+
+Kimberly has a been working in revenue cycle managment for over 10 years from practices with niche specialities such as cardiology and cosmetics to broader sectors of the industry such as telemedicine and remote patient monitoring. She brings a wealth of knowledge from her years of experience interacting with payors and tracking the continually changing regulatory landscape. <br>  
+In her free time, Kimberly enjoys spoiling her two cats, watching soccer, and experiencing the vibrance New York City.
+
+:::
+
+<div style="text-align: right;">
+#### Mark Michael, MD CMPE
+</div>
+
+::: {layout="[70,30]"}
+
+Mark has a background in medicine, research, and data science. After medical school he joined a series of health technology startups serving needs ranging from patient education to aged care to remote patient monitoring. He has a passion for evidence-informed care and building statistical models to explain confidence, uncertainty, and projections.
+<br>  
+In his free time, Mark rides his bicycle on the scenic trails of the Pacific Northwest. He plays board games and likes to try new recipes in the kitchen.
+
+![mark@kmmsconsulting.com](./kmms_assets/markheadshotsquare.jpg)
+
+:::
+
+<hr>
+
+
+

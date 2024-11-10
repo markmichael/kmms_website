@@ -1,0 +1,13 @@
+/* css styles */
+
+/* Light background for the navbar */
+.navbar {
+    background-color: #ECF0F1 !important; /* bg-light equivalent */
+}
+.navbar .navbar-brand,
+.navbar .nav-link {
+    color: #000 !important;
+}
+.navbar .nav-link:hover {
+    color: #0056b3 !important;
+}
