@@ -4,6 +4,7 @@ project:
     port: 4200
 
 website:
+  google-analytics: "G-4SZWW0FNJD"
   title: "<img src='./kmms_assets/kmms_logo_red.png' alt='KMMS Logo' style='height: 35px;'>"
   favicon: kmms_assets/favicon_io/favicon.ico
   navbar:
