@@ -26,7 +26,7 @@ Most of our clients see their bottom line and know that there is opportunity to 
 
 - Code Compliance
 - Denials Management
-- AR Managment
+- AR Management
 - Coding
 - Credentialing
 - Contracting
